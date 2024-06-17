@@ -148,7 +148,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@harunnmohamed](https://twitter.com/harunnmohamed) - harunmohamed901@gmail.com
+Name - [@harunnmohamed](https://twitter.com/harunnmohamed) - harunmohamed901@gmail.com
 
 Project Link: [Bambi Official Webapp](https://bambi.app)
 
